@@ -1,2 +1,2 @@
 # Aula_Javascript
-Tutorial de como usar o Javascript
+Aula de como usar o Javascript
